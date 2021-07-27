@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Let me introduce myself, my name is **Mohammad Syailendra Kusumah**. just graduated from Diponegoro University with a 3.69 GPA.
+Let me introduce myself, my name is **Mohammad Syailendra Kusumah**, and I'm just graduated from Diponegoro University with a 3.69 GPA.
 
 I'll make my own world in this vast programming jungle, hope I can make something that makes you excited.
 
