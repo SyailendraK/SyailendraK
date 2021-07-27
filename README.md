@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Let me intoduce my self, my name is **Mohammad Syailendra Kusumah**.\ just graduated from Diponegoro University with 3.69 GPA.
+
+Here i'll make my own world in programming, hope i can make something that make you excited.
+
+My [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
 <!--
 **SyailendraK/SyailendraK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
