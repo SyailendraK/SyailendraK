@@ -4,7 +4,7 @@ Let me introduce myself, my name is **Mohammad Syailendra Kusumah**, and I'm jus
 
 I'll make my own world in this vast programming jungle, hope I can make something that makes you excited.
 
-My [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
+My [Linkedin](https://www.linkedin.com/in/syailendra/).
 
 <p align="left">
 <a href="https://github.com/SyailendraK">
